@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified content
+=======
+file1 created
+>>>>>>> 5d968aa74804de4f5919fde0cffcbeeeba65c69d
